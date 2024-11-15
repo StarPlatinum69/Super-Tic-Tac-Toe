@@ -1,0 +1,16 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe_Trial_1.SuperTC1.resources
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.csproj.GenerateResource.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\bin\Debug\net8.0-windows\Supertictactoe Trial 1.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\bin\Debug\net8.0-windows\Supertictactoe Trial 1.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\bin\Debug\net8.0-windows\Supertictactoe Trial 1.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\bin\Debug\net8.0-windows\Supertictactoe Trial 1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\bin\Debug\net8.0-windows\Supertictactoe Trial 1.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\refint\Supertictactoe Trial 1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\Supertictactoe Trial 1.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Super-tic-tac-toe batch 1\Supertictactoe Trial 1\obj\Debug\net8.0-windows\ref\Supertictactoe Trial 1.dll
