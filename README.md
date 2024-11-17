@@ -20,3 +20,5 @@ PlayerWins: & CPU Wins:
 Textboxes are updated after each win
 
 Check Whether the CheckGame() METHOD recongizes whether CPU or the Player has won or not.
+
+Raka's Current Goal : Figuring out the PlayerClickButton method alongside Debottom.
