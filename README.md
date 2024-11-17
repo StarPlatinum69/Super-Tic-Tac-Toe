@@ -11,3 +11,6 @@ Messege to Debottom: Keep working on PlayerClickButton. Keep your edits in a new
 
 
 Raka's Current Objective: Checking who's gonna win, Player or CPU. What happens after a win. 
+
+Update 7:33🕞PM
+Debugged the RestartGame() Method.
