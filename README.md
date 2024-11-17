@@ -25,3 +25,11 @@ Raka's Current Goal : Figuring out the PlayerClickButton method alongside Debott
 
 
 Notify me when all the checking/objectives is done. When notifying, give clear information on which button, text, method, keyword, line, has problems.
+
+Update 9:42PM
+Worked on PlayerClickButton Method so that the player doesn't misclick on other 3x3 grids.
+
+Check Trial 2 folder.
+
+new Objective: alongside all the old ones. Check whether the game works properly. Check the functions of PlayerClickButton method properly. 
+
