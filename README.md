@@ -8,3 +8,6 @@ Check Restart Button.
 Check whether all the highlighted Buttons are unclickable.
 
 Messege to Debottom: Keep working on PlayerClickButton. Keep your edits in a new Method. Don't edit the already done PlayerClickButton Method. 
+
+
+Raka's Current Objective: Checking who's gonna win, Player or CPU. What happens after a win. 
