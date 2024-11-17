@@ -9,7 +9,7 @@ Check whether all the highlighted Buttons are unclickable.
 
 Messege to Debottom: Keep working on PlayerClickButton. Keep your edits in a new Method. Don't edit the already done PlayerClickButton Method. 
 
-Notify me when all the checking is done. 
+
 
 Update 7:33🕞PM
 Debugged the RestartGame() Method.
@@ -22,3 +22,6 @@ Textboxes are updated after each win
 Check Whether the CheckGame() METHOD recongizes whether CPU or the Player has won or not.
 
 Raka's Current Goal : Figuring out the PlayerClickButton method alongside Debottom.
+
+
+Notify me when all the checking/objectives is done. When notifying, give clear information on which button, text, method, keyword, line, has problems.
