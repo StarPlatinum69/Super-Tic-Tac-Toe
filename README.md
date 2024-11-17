@@ -9,8 +9,14 @@ Check whether all the highlighted Buttons are unclickable.
 
 Messege to Debottom: Keep working on PlayerClickButton. Keep your edits in a new Method. Don't edit the already done PlayerClickButton Method. 
 
-
-Raka's Current Objective: Checking who's gonna win, Player or CPU. What happens after a win. 
+Notify me when all the checking is done. 
 
 Update 7:33🕞PM
 Debugged the RestartGame() Method.
+Added The TextBox saying who won and who lost.
+
+New Objective: Check to see if 
+PlayerWins: & CPU Wins: 
+Textboxes are updated after each win
+
+Check Whether the CheckGame() METHOD recongizes whether CPU or the Player has won or not.
