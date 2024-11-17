@@ -29,6 +29,11 @@ Notify me when all the checking/objectives is done. When notifying, give clear i
 Update 10🕙PM
 Worked on PlayerClickButton Method so that the player doesn't misclick on other 3x3 grids.
 
+Update 3AM 
+Added a TextBox when starting the Application, stating all the rules of the game. 
+
+BUG FOUND: middle 3x3 won't highlight.  NEED FIX.
+
 
 new Objective: alongside all the old ones. Check whether the game works properly. Check the functions of PlayerClickButton method properly. 
 
