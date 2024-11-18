@@ -14,20 +14,20 @@ namespace Supertictactoe_Trial_1
         int CPUWinCount = 0;
 
         List<Button> buttons;
-
+sadfasdfasdfascxsasadfw3
         Button lastPlayerButton;
         Button lastCPUButton;
 
         bool CPUhasMOVED;
         bool topleft, topright, topmid, midleft, midmid, midright, botleft, botmid, botright;
-
+sadfqadfasdfqw
 
         private List<Button> buttonGroup11;
         private List<Button> buttonGroup12;
         private List<Button> buttonGroup13;
         private List<Button> buttonGroup21;
         private List<Button> buttonGroup22;
-        private List<Button> buttonGroup23;
+        private List<Button> butsdfatonGroup23;
         private List<Button> buttonGroup31;
         private List<Button> buttonGroup32;
         private List<Button> buttonGroup33;
@@ -105,7 +105,7 @@ namespace Supertictactoe_Trial_1
 
         public void Tutorial_Text_Box()
         {
-            MessageBox.Show("Super Tic-Tac-Toe is an advanced version of the classic Tic-Tac-Toe game played on a 9x9 grid. \nThe grid is divided into 9 smaller 3x3 sub-grids, making a total of 81 spaces. \nPlayers take turns placing their mark (either X or O) on the board, and the goal is to win by getting three marks in a row in any of the sub-grids, just like in regular Tic-Tac-Toe.\nEach player must follow a special rule about where they can place their mark. On the first turn, Player 1 can place their mark anywhere on the board. \nAfter that, the location of each player’s move determines where the next player must play. \nFor example, if Player 1 places their mark in the top-right corner of a sub-grid, Player 2 must place their mark in the top-right sub-grid of the main board. This rule forces players to think ahead about their moves and their opponent’s possible moves.\r\n\r\nTo win a sub-grid, a player must get three marks in a row, just like in regular Tic-Tac-Toe. Once a player wins a sub-grid, it is considered controlled by that player, and no more marks can be placed there. \nThe overall goal of the game is to win three sub-grids in a row on the main 9x9 board, either horizontally, vertically, or diagonally.\nIf a player is directed to a sub-grid that is already full or has been won, they can place their mark in any open space in the corresponding sub-grid. \nThe game ends when a player wins three sub-grids in a row, and that player is declared the winner. The complexity of Super Tic-Tac-Toe comes from the need to manage both individual sub-grids and the larger 9x9 grid, requiring strategic planning and foresight.", "RULES of the SUPER TIC-TAC-TOE");
+            MessageBox.Show("Super Tic-Tac-Toe is an advanced version of the classic Tic-Tac-Toe game played on a 9x9 grid. \nThe grid is divided into 9 smaller 3x3 sub-grids, making a total of 81 spaces. \nPlayers take turns placing their mark (either X or O) on the board, and the goal is to win by getting three marks in a row in any of the sub-grids, just like in regular Tic-Tac-Toe.\nEach player must follow a special rule about where they can place their mark. On the first turn, Player 1 can place their mark anywhere on the board. \nAfter that, the location of each playerâ€™s move determines where the next player must play. \nFor example, if Player 1 places their mark in the top-right corner of a sub-grid, Player 2 must place their mark in the top-right sub-grid of the main board. This rule forces players to think ahead about their moves and their opponentâ€™s possible moves.\r\n\r\nTo win a sub-grid, a player must get three marks in a row, just like in regular Tic-Tac-Toe. Once a player wins a sub-grid, it is considered controlled by that player, and no more marks can be placed there. \nThe overall goal of the game is to win three sub-grids in a row on the main 9x9 board, either horizontally, vertically, or diagonally.\nIf a player is directed to a sub-grid that is already full or has been won, they can place their mark in any open space in the corresponding sub-grid. \nThe game ends when a player wins three sub-grids in a row, and that player is declared the winner. The complexity of Super Tic-Tac-Toe comes from the need to manage both individual sub-grids and the larger 9x9 grid, requiring strategic planning and foresight.", "RULES of the SUPER TIC-TAC-TOE");
         }
         public void RestartGame()
         {
